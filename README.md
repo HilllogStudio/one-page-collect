@@ -4,5 +4,5 @@
 
 | 序号 | 位置 | 来源 | Page网址 |
 | --- | --- | --- | --- |
-| 0 | / | / | https://hilllei.github.io/one-page-collect |
-| 1 | error | https://www.utopiaxc.cn/ | https://hilllei.github.io/one-page-collect/error/404.html |
+| 0 | / | / | https://hilllogstudio.github.io/one-page-collect/ |
+| 1 | error | https://www.utopiaxc.cn/ | https://hilllogstudio.github.io/one-page-collect/error/404.html |
